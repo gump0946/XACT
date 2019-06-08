@@ -118,7 +118,7 @@ public class XactApplicationTests {
 
 	@Test
 	public void testGit() {
-		System.out.println("hello git three times ");
+		System.out.println("hello git four times ");
 	}
 	// @Test
 	public void findTasksByUserId() {
